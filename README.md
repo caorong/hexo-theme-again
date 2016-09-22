@@ -1,10 +1,12 @@
 # hexo-theme-again
 A dead simple theme which supports emoji 。
 
+add random banner, backgroud powered by [lelouchcrgallery](http://lelouchcrgallery.tk/)
+
 
 ## Demo
 
-[lyyourc.com](http://lyyourc.com/) :star: :star:
+[caorong.github.io](http://caorong.github.io/) :star: :star:
 
 
 ## Usage
