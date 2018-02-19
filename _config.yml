@@ -1,23 +1,24 @@
 # basic
-title: lyyourc 
-subtitle: You Are The JavaScript In My HTML
+title: lelouchcr's blog
+subtitle: 
 favicon: favicon.ico
 
-# avatar: images/avatar.png
-# banner_small: images/banner-small.png
-# banner_large: images/banner-large.png
-avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+# avatar: images/avatar.png 
+avatar: https://gravatar.css.network/avatar/f6adb1529491a56dbe31c57d519585f5?s=400&r=g
+banner_small: images/banner-small.png
+banner_large: images/banner-large.png
+# avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
+# banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
+# banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
 
 # disqus
-disqus_shortname: drakeleung
+disqus_shortname: caorong
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
-  weibo: http://weibo.com/cha12chalyc
+  github: https://github.com/caorong
+  twitter: https://twitter.com/Lelouchcr
+  # weibo: http://weibo.com/cha12chalyc
 
 # nav #
 nav:

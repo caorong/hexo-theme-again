@@ -1,10 +1,11 @@
 // https://github.com/chriskempson/tomorrow-theme
 //Tomorrow Night Eighties
 
-$background: #2d2d2d;
+//$background: #2d2d2d;
+$background: #000;
 $current-line: #393939;
 $selection: #515151;
-$foreground: #ccc;
+$foreground: #c5c8c6;
 $comment: #999;
 $red: #f2777a;
 $orange: #f99157;
@@ -38,7 +39,8 @@ $purple: #cc99cc;
   // inline code
   code {
     background: $code-bg-color;
-    color: #EB298C;
+     color: #F18787;
+    // color: #f5eaf0;
     padding: 2px 3px;
     border-radius: 2px;
   }
